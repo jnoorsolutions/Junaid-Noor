@@ -1,38 +1,54 @@
 <h1 align="center">Hi 👋, I'm Junaid Noor Siddiqui</h1>
-<h3 align="center">Senior Manager - Head of Application Development from Indus Hospital PakistanPakistan</h3>
+<h3 align="center">Senior Manager - Head of Application | Microservices | Generative AI | NLP | LLMs | SDLC Expert</h3>
 
-- 🔭 I’m currently working on **Advanced Generative AI models using state-of-the-art architectures like Transformers and LLMs. My focus is on building applications with models like OpenAI, Groq, and Crew AI. I’ve already completed foundational work in Deep Learning including ANN, RNN, LSTM, GRU, Encoder-Decoder, and Transformer-based architectures, along with hands-on projects involving feature engineering, model deployment, and tuning. Now I’m exploring how to build real-world AI applications using these large models.**
+---
 
-- 🌱 I’m currently learning **Fine-Tuning LLMs, RAG (Retrieval-Augmented Generation), Agentic AI Systems, Diffusion Models (for Generative Images/Audio)**
+🎯 Currently leading the end-to-end redevelopment of enterprise healthcare applications using modern **Microservices architecture**, with a strong focus on **Angular** and **.NET Core** technologies.
 
-- 👯 I’m looking to collaborate on **MCP,RAG,CAG**
+💡 Deeply passionate about **Generative AI**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**. I’ve completed practical projects and research in:
 
-- 📝 I regularly write articles on [N/A](N/A)
+- ANN, RNN, LSTM, GRU, Bidirectional RNN  
+- Encoder-Decoder and Transformer models  
+- Full ML pipelines: Feature Engineering, Model Training, Deployment & Tuning  
 
-- 💬 Ask me about **SDLC**
+🚀 Currently exploring cutting-edge GenAI tools like **OpenAI**, **Olama**, **Groq**, and **Crew AI** to solve real-world problems in healthcare.
 
-- 📫 How to reach me **jnoorsolutions@gmail.com**
+---
 
-- 📄 Know about my experiences [N/A](N/A)
+## 🛠️ Technical Stack
 
-<h3 align="left">Connect with me:</h3>
+- **Frontend**: Angular  
+- **Backend**: .NET Core  
+- **AI/ML**: Python, TensorFlow, Keras, HuggingFace  
+- **Tools & DevOps**: Git, Docker, Azure DevOps, Postman  
+
+---
+
+- 🔭 I’m currently building intelligent applications using state-of-the-art Generative AI architectures like Transformers, LLMs, and RAG  
+- 🌱 Learning: **Fine-Tuning LLMs**, **Agentic AI**, **CAG**, **Diffusion Models**  
+- 👯 Open to collaborations on **MCP, RAG, CAG**-based AI systems  
+- 💬 Ask me about **SDLC, Microservices, and AI-driven enterprise solutions**  
+- 📫 Reach me at **[jnoorsolutions@gmail.com](mailto:jnoorsolutions@gmail.com)**  
+
+📌 Feel free to explore my pinned projects below and connect with me!
+
+---
+
+## 📲 Connect with Me
+
 <p align="left">
-<a href="https://codepen.io/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="n/a" height="30" width="40" /></a>
-<a href="https://dev.to/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="n/a" height="30" width="40" /></a>
-<a href="https://twitter.com/junaidnoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="junaidnoor" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/junaid noor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="junaid noor" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="n/a" height="30" width="40" /></a>
-<a href="https://codesandbox.com/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="n/a" height="30" width="40" /></a>
-<a href="https://fb.com/junaid noor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="junaid noor" height="30" width="40" /></a>
-<a href="https://instagram.com/junaid noor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junaid noor" height="30" width="40" /></a>
-<a href="https://dribbble.com/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="n/a" height="30" width="40" /></a>
-<a href="https://www.behance.net/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="n/a" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/n/a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="n/a" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="n/a" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="n/a" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="n/a" height="30" width="40" /></a>
-<a href="/n/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="n/a" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/junaidnoorsiddiqui" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/junaidnoorsol" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat-square" alt="Twitter" />
+  </a>
+  <a href="mailto:jnoorsolutions@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
+  </a>
+  <a href="https://github.com/junaidnoor" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&style=flat-square" alt="GitHub" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
