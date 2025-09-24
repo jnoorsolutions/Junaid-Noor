@@ -39,7 +39,7 @@
 
 ## 🛠️ Technical Stack
 
-- **Frontend**:React, Streamlit
+- **Frontend**: React, Streamlit
 - **Backend**: .NET Core, FastAPI  
 - **AI/ML**: Python, TensorFlow, Keras, HuggingFace, LangChain, LangGraph  
 - **Tools & DevOps**: Git, Docker, Azure DevOps, Postman  
