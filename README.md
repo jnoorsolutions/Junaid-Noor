@@ -1,36 +1,57 @@
 <h1 align="center">Hi 👋, I'm Junaid Noor Siddiqui</h1>
-<h3 align="center">Senior Manager - Head of Application | Microservices | Generative AI | NLP | LLMs | SDLC Expert</h3>
+<h3 align="center">Senior Manager - Head of Application | Microservices | Generative AI | Agentic AI | NLP | LLMs | SDLC Expert</h3>
 
 ---
 
 🎯 Currently leading the end-to-end redevelopment of enterprise healthcare applications using modern **Microservices architecture**, with a strong focus on **Angular** and **.NET Core** technologies.
 
-💡 Deeply passionate about **Generative AI**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**. I’ve completed practical projects and research in:
+💡 Deeply passionate about **Generative AI**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**.  
 
-- ANN, RNN, LSTM, GRU, Bidirectional RNN  
-- Encoder-Decoder and Transformer models  
-- Full ML pipelines: Feature Engineering, Model Training, Deployment & Tuning  
+---
 
-🚀 Currently exploring cutting-edge GenAI tools like **OpenAI**, **Olama**, **Groq**, and **Crew AI** to solve real-world problems in healthcare.
+## ✅ Completed Projects
+
+- **GenAI**: Built practical solutions using **LangChain, RAG, Chatbots, etc.**  
+- **Agentic AI**: Designed and implemented advanced **LangGraph** workflows.  
+- Hands-on projects in **ANN, RNN, LSTM, GRU**  
+- Encoder-Decoder and Transformer-based systems  
+- End-to-end ML pipelines: **Feature Engineering, Model Training, Deployment, Tuning**  
+
+---
+
+## 🚀 Current Work
+
+- Developing **Agentic AI applications with LangGraph** integrated into **FastAPI**.  
+- Exploring **MCP** for scalable multi-agent orchestration.  
+- Experimenting with cutting-edge AI tools: **OpenAI, Olama, Groq, Crew AI**.  
+- Building intelligent enterprise solutions with **Transformers, LLMs, and RAG architectures**.  
+
+---
+
+## 🏥 Healthcare Innovation
+
+- Leading large-scale **enterprise healthcare application redevelopment**.  
+- Architecting **Microservices-based platforms** for healthcare scalability and reliability.  
+- Applying **AI-powered insights (RAG, LLMs, Agentic AI)** to clinical and operational workflows.  
+- Driving **digital transformation in healthcare** with modern software and AI solutions.  
 
 ---
 
 ## 🛠️ Technical Stack
 
-- **Frontend**: Angular  
-- **Backend**: .NET Core  
-- **AI/ML**: Python, TensorFlow, Keras, HuggingFace  
+- **Frontend**:React, Streamlit
+- **Backend**: .NET Core, FastAPI  
+- **AI/ML**: Python, TensorFlow, Keras, HuggingFace, LangChain, LangGraph  
 - **Tools & DevOps**: Git, Docker, Azure DevOps, Postman  
 
 ---
 
-- 🔭 I’m currently building intelligent applications using state-of-the-art Generative AI architectures like Transformers, LLMs, and RAG  
 - 🌱 Learning: **Fine-Tuning LLMs**, **Agentic AI**, **CAG**, **Diffusion Models**  
 - 👯 Open to collaborations on **MCP, RAG, CAG**-based AI systems  
-- 💬 Ask me about **SDLC, Microservices, and AI-driven enterprise solutions**  
+- 💬 Ask me about **SDLC, Microservices, Healthcare IT, and AI-driven enterprise solutions**  
 - 📫 Reach me at **[jnoorsolutions@gmail.com](mailto:jnoorsolutions@gmail.com)**  
 
-📌 Feel free to explore my pinned projects below and connect with me!
+📌 Feel free to explore my pinned projects below and connect with me!  
 
 ---
 
