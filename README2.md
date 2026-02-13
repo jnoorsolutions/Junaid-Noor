@@ -97,6 +97,17 @@ A fully modular, enterprise-ready AI orchestration platform featuring:
 
 ---
 
+## 🏢 Enterprise Use Cases
+
+✔ Healthcare (HIPAA-aligned document intelligence)  
+✔ Financial institutions (SOC2 governance-ready)  
+✔ Legal firms (secure case intelligence)  
+✔ Corporate knowledge management  
+✔ Manufacturing compliance  
+✔ Educational institutions
+
+---
+
 # 🛠️ Technical Stack
 
 ## Backend
